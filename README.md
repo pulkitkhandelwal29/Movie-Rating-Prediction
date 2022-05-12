@@ -1,2 +1,2 @@
-# Restaurant-Recommendation-System-Location
-Recommender System
+# IMDB Movie Ratings Prediction
+
